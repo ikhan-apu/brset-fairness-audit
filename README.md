@@ -65,9 +65,9 @@ these notebooks.
 If you use this code, please cite:
 
 ```
-M. I. Khan, A. S. M. N. Islam, S. Kanaya, and M. Altaf-Ul-Amin,
+M. I. Khan, A. S. M. N. Islam, A. I. Islam, and R. Sultana,
 "Beyond AUC: Operating-Point Fairness, Mitigation Fragility, and Cross-Camera
-Generalisation in Retinal Disease Screening,"
+Generalization in Retinal Disease Screening,"
 in Proc. IEEE Int. Conf. on Biomedical Engineering, Computing and Information
 Technology for Health (BECITHCON), 2026.
 ```
